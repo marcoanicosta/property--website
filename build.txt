@@ -3,10 +3,10 @@ Features Section *Complete*
 Story Section *Complete*
 Homes Section *Complete*
 
-1. Building the Gallery *here
-2. Footer
-3. Sidebar
-4. Header
+1. Building the Gallery *Complete*
+2. Footer *Complete*
+3. Sidebar *Complete*
+4. Header *Complete*
 ___ [71mins]
 5. Realtors Section
 6. Media Queries
