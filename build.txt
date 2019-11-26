@@ -1,15 +1,15 @@
-1. Overall layout *Complete*
-2. Features Section
-3. Story Section
-4. Homes Section
-___ [139mins]
-5. Building the Gallery
-6. Footer
-7. Sidebar
-8. Header
+Overall layout *Complete*
+Features Section *Complete*
+Story Section *Complete*
+Homes Section *Complete*
+
+1. Building the Gallery *here
+2. Footer
+3. Sidebar
+4. Header
 ___ [71mins]
-9. Realtors Section
-10. Media Queries
-11. Browser Support
-12. Wrap Up
+5. Realtors Section
+6. Media Queries
+7. Browser Support
+8. Wrap Up
 ___ [63mins]
