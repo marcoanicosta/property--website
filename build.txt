@@ -2,14 +2,12 @@ Overall layout *Complete*
 Features Section *Complete*
 Story Section *Complete*
 Homes Section *Complete*
-
-1. Building the Gallery *Complete*
-2. Footer *Complete*
-3. Sidebar *Complete*
-4. Header *Complete*
-___ [71mins]
-5. Realtors Section
-6. Media Queries
-7. Browser Support
-8. Wrap Up
+Building the Gallery *Complete*
+Footer *Complete*
+Sidebar *Complete*
+Header *Complete*
+Realtors *Complete*
+Media Queries *Complete*
+Browser Support *Complete*
+Wrap Up *Complete*
 ___ [63mins]
