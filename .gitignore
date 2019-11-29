@@ -1,4 +1,5 @@
 # Ignore files
+build.txt
 
 # Ignore folders
 node_modules/
